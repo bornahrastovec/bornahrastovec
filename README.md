@@ -1,5 +1,6 @@
 # Hi there 👋
 ## I'm a Full Stack enthusiast from Croatia. 
+### I work with JavaScript (Node) and .NET, you can see some of my projects below.
 <!--
 **bornahrastovec/bornahrastovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
